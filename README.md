@@ -4,4 +4,4 @@ This template should help get you started developing with Tauri, SvelteKit and T
 
 ## Recommended IDE Setup
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+[Neovim](https://github.com/neovim/neovim) + [Svelte](https://github.com/sveltejs/language-tools/tree/master/packages/language-server) + [rust-analyzer](https://github.com/rust-lang/rust-analyzer).
